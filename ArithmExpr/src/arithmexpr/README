@@ -1,0 +1,10 @@
+To run this program, grab ArithmExpr.java source code, take out the line with "package arithmexpr;" and compile by using the
+command: javac ArithmExpr.java
+Then run the program by typing in terminal: java ArithmExpr [inputs]
+The inputs are as follow, the first number is the target number that the user wants the expression to
+try to equate to, the following numbers can be from 2-5, which the program will use to try to see if an
+expression can be made to match the target number.
+
+For example:
+
+java ArithmExpr 4 1 2 3
